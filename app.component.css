@@ -1,0 +1,12 @@
+.lines{
+  background-color: #aaaaaa;
+  height: 670px;
+  width: 2px;
+  -webkit-box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+  box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+  border-bottom:2px solid transparent;
+}
+.steam-logo:hover{
+  width: 250px;
+  height: 250px;
+}
